@@ -45,7 +45,7 @@ channels) then you may experience additional noise, as the RTL-SDR does not
 perform well near DC. You can work around this by choosing a different center
 frequency with `-f`.
 
-You may want to play around with other parametes, e.g. adjusting the tuner gain
+You may want to play around with other parameters, e.g. adjusting the tuner gain
 (`-g`) and squelch threshold (`-s`), as well as the audio gain (`-a`). If your
 channels are spaced closely together, lower the transition width (`-t`) and use
 a tight deviation (`-w`). Note that lowering the transition width increases CPU
