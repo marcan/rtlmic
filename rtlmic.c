@@ -454,7 +454,7 @@ void usage(void)
     fprintf(stderr, "rtlmic - Demodulate FM microphones using an RTL-SDR\n");
     fprintf(stderr, "\n");
     fprintf(stderr, "  -h, --help             this help\n");
-    fprintf(stderr, "  -v, --verbose          be st.verbose\n");
+    fprintf(stderr, "  -v, --verbose          be verbose\n");
     fprintf(stderr, "  -c, --client-name=NAME JACK client name (default: rtlmic)\n");
     fprintf(stderr, "  -f, --fc=HZ            center frequency to tune to\n");
     fprintf(stderr, "                           (default: auto)\n");
